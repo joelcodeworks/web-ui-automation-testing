@@ -1,6 +1,6 @@
 # Web UI Automation Testing
 
-## UI test automation project developed with **Playwright** and **JavaScript**.
+UI test automation project developed with **Playwright** and **JavaScript**.
   This repository contains automated end-to-end tests covering login functionality and basic  navigation on web pages. 
 
 ## Technologies
